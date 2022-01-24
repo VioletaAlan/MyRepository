@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+ }
+
+ .container{
+     height: 100vh;
+     background-color: brown;
+     border: black;
+ }
+ 
+
