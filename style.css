@@ -1,11 +1,14 @@
 *{
     margin: 0;
- }
+    box-sizing: border-box;
+  }
 
  .container{
      height: 100vh;
-     background-color: brown;
-     border: black;
- }
+     background-color: rgba(143, 21, 106, 0.555);
+     display: grid;
+     grid-template-columns: 1fr;
+      }
+
  
 
